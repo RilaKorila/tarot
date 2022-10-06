@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "tarot_game/index.html"
+status = 200
